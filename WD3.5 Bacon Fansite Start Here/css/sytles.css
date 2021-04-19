@@ -1,0 +1,34 @@
+body{
+    background-color: rebeccapurple;
+}
+h1{
+    font-size: 100px;
+    color: white;
+}
+p{
+    color: whitesmoke;
+}
+img:hover{
+    background: gold;
+    border-radius: 23px;
+}
+
+
+/* Class Selecetor*/
+.bacon{
+    background-color: cadetblue;
+}
+.bomb{
+    background-color:chartreuse;
+    
+}
+.circular{
+    border-radius: 20px;
+}
+/* Id Selecetor*/
+#heading{ 
+    color: blue;
+}
+#big{
+    font-size: 100px;
+}

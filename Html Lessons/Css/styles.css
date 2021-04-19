@@ -1,0 +1,23 @@
+body {
+    background-color: #a7c5eb;
+}
+
+hr {
+    
+    border-color: white;
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 10px;
+    width: 30%
+}
+h1{
+    color: red;
+}
+h3{
+    color:wheat
+}
+img {
+    border-radius: 50%;
+    width: 30%;
+    height: 30%;
+}
